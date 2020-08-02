@@ -1,0 +1,19 @@
+.parallax {
+  margin-top: 10% !important;
+  position: relative;
+}
+.heading {
+  position: absolute;
+  background-color: rgba(175, 175, 175, 0.8);
+  margin: 0 auto;
+  width: 40%;
+  height: 20%;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 2%;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
